@@ -6,7 +6,7 @@
 ######    1. If you wish to use virtualenv.
 Description | Command
 ------------ | -------------
-1. install virtualenv by executing in console | "pip install virtualenv"
+1.1 install virtualenv by executing in console | "pip install virtualenv"
 1.2 Go to the folder where you whant to have virtual env | cd my_project_folder
 1.3 Create virtualenv by | virtualenv <name of you virtual environment>
 1.4 Activate virtualenv | source /<path_to_virtual_env>/<name of you virtual environment>/bin/activate
